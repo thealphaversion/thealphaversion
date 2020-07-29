@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thealphaversion&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### I am a software developer. I love building software that serves a purpose.
+### Contact me on [LinkedIn](https://www.linkedin.com/in/aditya-chakraborti/) or by [email](mailto:adityachakraborti14@gmail.com).
 
 <!--
 **thealphaversion/thealphaversion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
