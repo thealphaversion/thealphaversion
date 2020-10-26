@@ -3,7 +3,7 @@
 #### I am Aditya. I am a software developer. I love building software that serves a purpose.
 
 - 🔭 I’m currently working on [shorthands](https://github.com/thealphaversion/shorthands).
-- :computer: I’m looking for work in India or Remote.
+- :computer: I’m currently working as a Frontend Engineer but I also delve into the backend sometimes.
 - 🌱 I’m currently learning how to build scalable fullstack systems.
 - 👯 I’m looking to collaborate on any exciting projects that come my way.
 - :mortar_board: Just graduated this year with a bachelors degree in computer engineering
