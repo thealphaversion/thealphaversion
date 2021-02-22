@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning how to build scalable fullstack systems.
 - 👯 I’m looking to collaborate on any exciting projects that come my way.
 - :mortar_board: Just graduated this year with a bachelors degree in computer engineering
-- :busts_in_silhouette: I go by the username [thealphaversion](https://adityac.tech/) almost everywhere.
+- :busts_in_silhouette: I go by the username [thealphaversion](https://adityachakraborti.com/) almost everywhere.
 - ⚡ Fun fact: I love football, snacking and playing video games
 
 ---
